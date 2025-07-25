@@ -246,7 +246,7 @@ body {
 }
 
 .heading {
-    max-width: 430px;
+    max-width: 440px;
 }
 
 .heading p {
@@ -409,7 +409,7 @@ body {
 
 .slide-title {
     margin-top: 0;
-    width: 385px;
+    width: 400px;
 }
 
 .testimonial {
@@ -689,7 +689,7 @@ body {
         border-radius: 16px;
         padding: 24px;
         position: relative;
-        max-height: 200px;
+        max-height: 240px;
         width: 230px;
         z-index: 2;
         background: var(--color-bg);
